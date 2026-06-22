@@ -1,2 +1,5 @@
 # README.gitignore
-My Projects
+This is my firt Git Repository.
+<br>
+Author - Maaz Ahsan
+
